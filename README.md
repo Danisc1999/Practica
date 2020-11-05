@@ -4,6 +4,6 @@
 
 * Daniel Ojeda Velasco
 * Sergio Luna Guerra
-* Daniel Sanchez 
+* Daniel Sanchez Casado
 * Andrés Arcones Crespo
 
