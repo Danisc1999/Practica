@@ -1,2 +1,2 @@
 # PracticaDIS
-Primera modficacion.
+Segunda modficacion.
