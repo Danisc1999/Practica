@@ -2,8 +2,8 @@
 
 ## Integrantes del equipo
 
-* Daniel Ojeda
-* Sergio Luna
-* Daniel Sanchez
+* Daniel Ojeda Velasco
+* Sergio Luna Guerra
+* Daniel Sanchez 
 * Andrés Arcones Crespo
 
