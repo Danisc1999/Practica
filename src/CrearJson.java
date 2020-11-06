@@ -1,8 +1,7 @@
-import java.io.File;
+import java.io.File; //Gson
 
-public class CrearJson {
+public class CrearJson { //Dani Sanchez
 
     private static String dir_json = new File("peliculas.json").getAbsolutePath();
-
 
 }
